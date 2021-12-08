@@ -1,5 +1,8 @@
 # GovHack2021-Hydro
 vendor.zip need to unzip then website would work.
+Video Pitch uploaded to Youtube
+https://youtu.be/5aq7OqrHd-M
+
 Project Description : A system that stores rainwater in response to the weather, converts it into freshwater, and then monitors and manages it during the dry season.
 #agtech #climate #automation #rainwater
 Data Story : Through these open data, our group obtained the rainfall in different regions of New Zealand, analyzed the water demand data in combination with the population density of New Zealand, and obtained the period of the drought cycle according to the rainfall and weather data. These data effectively helped our team cope with the need for water use during dry weather. By analyzing the weather data, we obtained rainfall data in mountainous and coastal areas. Finally, these data are integrated to obtain the monitoring value and management scheme needed by the system.
