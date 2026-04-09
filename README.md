@@ -25,3 +25,12 @@ Description of Use The data set was used to analyze rainfall in New Zealand and 
 
 NIWA
 Description of Use The dataset was used to analyze the regional climate in New Zealand.
+
+## Deployment
+
+To deploy and run this project locally:
+
+1. Unzip the `vendor.zip` file in the project root directory. This contains necessary dependencies for the website.
+2. Open `Hydro.html` in a web browser to view the website.
+
+For production deployment, host the static files (HTML, CSS, JS, images, etc.) on a web server such as Apache, Nginx, or a static hosting service like GitHub Pages or Netlify.
